@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<its:rules  
+  xmlns:its="http://www.w3.org/2005/11/its" 
+   xmlns:itsx="http://www.w3.org/2008/12/its-extensions" 
+   xmlns:okp="okapi-framework:xmlfilter-options" 
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+  
+ xmlns:qti="http://www.imsglobal.org/xsd/imsqti_v2p2"
+    xmlns:pci="http://www.imsglobal.org/xsd/portableCustomInteraction_v1"
+    version="1.0" >
+
+    <!-- qti / core 1 -->
+    <its:translateRule selector="//qti:baseValue|//qti:value" translate="no" />
+    <its:translateRule selector="//qti:textEntryInteraction" translate="no" />
+     <!-- pci / core 4 -->
+    <its:translateRule selector="//pci:property[@key='radius']" translate="no" />
+    <its:translateRule selector="//pci:property[@key='selectedPartitionsColor']" translate="no" />
+
+   <its:translateRule selector="//qti:property[@key='partitionColor']" translate="no" />
+    <its:translateRule selector="//qti:property[@key='outlineColor']" translate="no" />
+    <its:translateRule selector="//qti:property[@key='outlineThickness']" translate="no" />
+    <its:translateRule selector="//qti:property[@key='partitionMax']" translate="no" />
+    <its:translateRule selector="//qti:property[@key='partitionMin']" translate="no" />
+    <its:translateRule selector="//qti:property[@key='partitionInit']" translate="no" />
+    <its:translateRule selector="//qti:property[@key='selectedPartitionsInit']" translate="no" />
+    <its:translateRule selector="//qti:property[@key='selectedPartitions']" translate="no" />
+     <!-- inline codes -->
+    <its:withinTextRule selector="//qti:sub|//qti:sup|//qti:strong|//qti:em|//qti:span" withinText="yes" />
+
+    <!-- xml options -->
+    <okp:options escapeQuotes="no" escapeGT="yes" />
+
+    <its:translateRule selector="//qti:prompt" translate="yes" itsx:idValue="@pid" />
+
+    <!-- LaTeX -->>
+    <okp:codeFinder useCodeFinder="yes">#v1
+    count.i=2
+    rule0=\{*\\[^{]+\{|\}+
+    rule1=\\(left\(|right\))
+     </okp:codeFinder>
+
+</its:rules>

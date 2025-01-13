@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2 http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2.xsd" identifier="i6361d27d845c9202409ab13dff7ac0bbec" title="SC173" label="SC173" xml:lang="en-GB" adaptive="false" timeDependent="false" toolName="TAO" toolVersion="2022.10">
+  <responseDeclaration identifier="SC173" cardinality="multiple" baseType="directedPair"/>
+  <itemBody>
+    <div class="grid-row">
+      <div class="col-12">
+        <matchInteraction responseIdentifier="SC173" shuffle="false" maxAssociations="6" minAssociations="0">
+          <prompt>
+            <p>
+              <strong>During &lt;the last academic year&gt;, how often have the majority of school staff done each of the following?</strong>
+            </p>
+            <p>
+              <em>(Staff includes teachers, personnel for pedagogical support, school administrative personnel, and school management personnel.)</em>
+            </p>
+            <p>
+              <em>(Please select one response in each row.)</em>
+            </p>
+          </prompt>
+          <simpleMatchSet>
+            <simpleAssociableChoice identifier="_01" fixed="false" showHide="show" matchMax="0" matchMin="0">
+              <em>Never or almost never </em>
+            </simpleAssociableChoice>
+            <simpleAssociableChoice identifier="_02" fixed="false" showHide="show" matchMax="0" matchMin="0">
+              <em>About once or twice a year</em>
+            </simpleAssociableChoice>
+            <simpleAssociableChoice identifier="_03" fixed="false" showHide="show" matchMax="0" matchMin="0">
+              <p>
+                <em>About once or twice a month</em>
+              </p>
+            </simpleAssociableChoice>
+            <simpleAssociableChoice identifier="_04" fixed="false" showHide="show" matchMax="0" matchMin="0">
+              <p>
+                <em>About once or twice a week</em>
+              </p>
+            </simpleAssociableChoice>
+            <simpleAssociableChoice identifier="_05" fixed="false" showHide="show" matchMax="0" matchMin="0">
+              <em>Every day or almost every day</em>
+            </simpleAssociableChoice>
+          </simpleMatchSet>
+          <simpleMatchSet>
+            <simpleAssociableChoice identifier="SC173Q01JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They helped students of different backgrounds to recognise the similarities that exist between them.</simpleAssociableChoice>
+            <simpleAssociableChoice identifier="SC173Q02JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They encouraged students of different backgrounds to resolve disagreements by finding common ground.</simpleAssociableChoice>
+            <simpleAssociableChoice identifier="SC173Q03JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They supported activities or organisations that encourage students' expression of diverse identities.</simpleAssociableChoice>
+            <simpleAssociableChoice identifier="SC173Q04JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They taught students how to respond to discrimination.</simpleAssociableChoice>
+            <simpleAssociableChoice identifier="SC173Q05JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They taught students to be inclusive of others with different backgrounds.</simpleAssociableChoice>
+            <simpleAssociableChoice identifier="SC173Q06JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They provided additional support for students from disadvantaged backgrounds.</simpleAssociableChoice>
+          </simpleMatchSet>
+        </matchInteraction>
+      </div>
+    </div>
+  </itemBody>
+  <responseProcessing/>
+</assessmentItem>
