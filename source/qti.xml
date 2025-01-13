@@ -12,9 +12,7 @@
             <p>
               <em>(Staff includes teachers, personnel for pedagogical support, school administrative personnel, and school management personnel.)</em>
             </p>
-            <p>
-              <em>(Please select one response in each row.)</em>
-            </p>
+            <p class="emphasize">(Please select one response in each row.)</p>
           </prompt>
           <simpleMatchSet>
             <simpleAssociableChoice identifier="_01" fixed="false" showHide="show" matchMax="0" matchMin="0">
