@@ -1,47 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2 http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2.xsd" identifier="i6361d27d845c9202409ab13dff7ac0bbec" title="SC173" label="SC173" xml:lang="en-GB" adaptive="false" timeDependent="false" toolName="TAO" toolVersion="2022.10">
-  <responseDeclaration identifier="SC173" cardinality="multiple" baseType="directedPair"/>
+<assessmentItem adaptive="false" identifier="i6361d27d845c9202409ab13dff7ac0bbec" label="SC173" timeDependent="false" title="SC173" toolName="TAO" toolVersion="2022.10" xml:lang="en-GB" xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p2 http://www.imsglobal.org/xsd/qti/qtiv2p2/imsqti_v2p2.xsd">
+  <responseDeclaration baseType="directedPair" cardinality="multiple" identifier="SC173"/>
   <itemBody>
     <div class="grid-row">
       <div class="col-12">
-        <matchInteraction responseIdentifier="SC173" shuffle="false" maxAssociations="6" minAssociations="0">
+        <matchInteraction maxAssociations="6" minAssociations="0" responseIdentifier="SC173" shuffle="false">
           <prompt>
-            <p>
-              <strong>During &lt;the last academic year&gt;, how often have the majority of school staff done each of the following?</strong>
-            </p>
-            <p>
-              <em>(Staff includes teachers, personnel for pedagogical support, school administrative personnel, and school management personnel.)</em>
-            </p>
-            <p class="emphasize">(Please select one response in each row.)</p>
+            <p> <strong>Durante o ano 2024, com que frequência a maioria dos funcionários da escola fez cada um dos seguintes?</strong> </p>
+            <p> <em>(A equipe inclui professores, pessoal de apoio pedagógico, pessoal administrativo da escola e pessoal da gestão escolar.)</em> </p>
+            <p class="emphasize">(Selecione uma resposta em cada linha.)</p>
           </prompt>
           <simpleMatchSet>
-            <simpleAssociableChoice identifier="_01" fixed="false" showHide="show" matchMax="0" matchMin="0">
-              <em>Never or almost never </em>
+            <simpleAssociableChoice fixed="false" identifier="_01" matchMax="0" matchMin="0" showHide="show"> <em>Nunca ou quase nunca </em> </simpleAssociableChoice>
+            <simpleAssociableChoice fixed="false" identifier="_02" matchMax="0" matchMin="0" showHide="show"> <em>Cerca de uma ou duas vezes por ano</em> </simpleAssociableChoice>
+            <simpleAssociableChoice fixed="false" identifier="_03" matchMax="0" matchMin="0" showHide="show">
+              <p> <em>Cerca de uma ou duas vezes por mês</em> </p>
             </simpleAssociableChoice>
-            <simpleAssociableChoice identifier="_02" fixed="false" showHide="show" matchMax="0" matchMin="0">
-              <em>About once or twice a year</em>
+            <simpleAssociableChoice fixed="false" identifier="_04" matchMax="0" matchMin="0" showHide="show">
+              <p> <em>Cerca de uma ou duas vezes por semana</em> </p>
             </simpleAssociableChoice>
-            <simpleAssociableChoice identifier="_03" fixed="false" showHide="show" matchMax="0" matchMin="0">
-              <p>
-                <em>About once or twice a month</em>
-              </p>
-            </simpleAssociableChoice>
-            <simpleAssociableChoice identifier="_04" fixed="false" showHide="show" matchMax="0" matchMin="0">
-              <p>
-                <em>About once or twice a week</em>
-              </p>
-            </simpleAssociableChoice>
-            <simpleAssociableChoice identifier="_05" fixed="false" showHide="show" matchMax="0" matchMin="0">
-              <em>Every day or almost every day</em>
-            </simpleAssociableChoice>
+            <simpleAssociableChoice fixed="false" identifier="_05" matchMax="0" matchMin="0" showHide="show"> <em>Todos os dias ou quase todos os dias</em> </simpleAssociableChoice>
           </simpleMatchSet>
           <simpleMatchSet>
-            <simpleAssociableChoice identifier="SC173Q01JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They helped students of different backgrounds to recognise the similarities that exist between them.</simpleAssociableChoice>
-            <simpleAssociableChoice identifier="SC173Q02JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They encouraged students of different backgrounds to resolve disagreements by finding common ground.</simpleAssociableChoice>
-            <simpleAssociableChoice identifier="SC173Q03JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They supported activities or organisations that encourage students' expression of diverse identities.</simpleAssociableChoice>
-            <simpleAssociableChoice identifier="SC173Q04JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They taught students how to respond to discrimination.</simpleAssociableChoice>
-            <simpleAssociableChoice identifier="SC173Q05JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They taught students to be inclusive of others with different backgrounds.</simpleAssociableChoice>
-            <simpleAssociableChoice identifier="SC173Q06JA" fixed="false" showHide="show" matchMax="1" matchMin="0">They provided additional support for students from disadvantaged backgrounds.</simpleAssociableChoice>
+            <simpleAssociableChoice fixed="false" identifier="SC173Q01JA" matchMax="1" matchMin="0" showHide="show">Eles ajudaram alunos de diferentes origens a reconhecer as semelhanças que existem entre eles.</simpleAssociableChoice>
+            <simpleAssociableChoice fixed="false" identifier="SC173Q02JA" matchMax="1" matchMin="0" showHide="show">Eles incentivaram alunos de diferentes origens a resolver divergências encontrando um terreno comum.</simpleAssociableChoice>
+            <simpleAssociableChoice fixed="false" identifier="SC173Q03JA" matchMax="1" matchMin="0" showHide="show">Eles apoiaram atividades ou organizações que incentivam a expressão de diversas identidades pelos alunos.</simpleAssociableChoice>
+            <simpleAssociableChoice fixed="false" identifier="SC173Q04JA" matchMax="1" matchMin="0" showHide="show">Eles ensinaram os alunos a responder à discriminação.</simpleAssociableChoice>
+            <simpleAssociableChoice fixed="false" identifier="SC173Q05JA" matchMax="1" matchMin="0" showHide="show">Eles ensinaram os alunos a serem inclusivos com outras pessoas com diferentes origens.</simpleAssociableChoice>
+            <simpleAssociableChoice fixed="false" identifier="SC173Q06JA" matchMax="1" matchMin="0" showHide="show">Eles forneceram apoio adicional para alunos de origens desfavorecidas.</simpleAssociableChoice>
           </simpleMatchSet>
         </matchInteraction>
       </div>
