@@ -21,10 +21,10 @@
     "segments": 14
   },
   "project": {
-    "root": "/home/souto/Work/iil_qti-test_omt/",
+    "root": "/home/souto/Work/iil_qti-test_pt-BR_omt/",
     "source-language": "en",
     "target-language": "pt-BR",
-    "name": "iil_qti-test_omt"
+    "name": "iil_qti-test_pt-BR_omt"
   },
   "files": [{
     "total": {
