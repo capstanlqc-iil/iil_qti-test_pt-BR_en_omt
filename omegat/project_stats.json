@@ -1,0 +1,67 @@
+{
+  "total": {
+    "characters-without-spaces": 850,
+    "characters": 971,
+    "words": 134,
+    "files": 1,
+    "segments": 14
+  },
+  "unique-remaining": {
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
+  },
+  "unique": {
+    "characters-without-spaces": 850,
+    "characters": 971,
+    "words": 134,
+    "files": 1,
+    "segments": 14
+  },
+  "project": {
+    "root": "/home/souto/Work/iil_qti-test_omt/",
+    "source-language": "en",
+    "target-language": "pt-BR",
+    "name": "iil_qti-test_omt"
+  },
+  "files": [{
+    "total": {
+      "characters-without-spaces": 850,
+      "characters": 971,
+      "words": 134,
+      "files": 0,
+      "segments": 14
+    },
+    "filename": "qti.xml",
+    "unique-remaining": {
+      "characters-without-spaces": 0,
+      "characters": 0,
+      "words": 0,
+      "files": 0,
+      "segments": 0
+    },
+    "unique": {
+      "characters-without-spaces": 850,
+      "characters": 971,
+      "words": 134,
+      "files": 0,
+      "segments": 14
+    },
+    "remaining": {
+      "characters-without-spaces": 0,
+      "characters": 0,
+      "words": 0,
+      "files": 0,
+      "segments": 0
+    }
+  }],
+  "remaining": {
+    "characters-without-spaces": 0,
+    "characters": 0,
+    "words": 0,
+    "files": 0,
+    "segments": 0
+  }
+}
