@@ -1,8 +1,8 @@
 {
   "total": {
-    "characters-without-spaces": 850,
-    "characters": 971,
-    "words": 134,
+    "characters-without-spaces": 860,
+    "characters": 995,
+    "words": 148,
     "files": 1,
     "segments": 14
   },
@@ -14,23 +14,23 @@
     "segments": 0
   },
   "unique": {
-    "characters-without-spaces": 850,
-    "characters": 971,
-    "words": 134,
+    "characters-without-spaces": 860,
+    "characters": 995,
+    "words": 148,
     "files": 1,
     "segments": 14
   },
   "project": {
-    "root": "/home/souto/Work/iil_qti-test_pt-BR_omt/",
-    "source-language": "en",
-    "target-language": "pt-BR",
-    "name": "iil_qti-test_pt-BR_omt"
+    "root": "/home/souto/Work/iil_qti-test_pt-BR_en_omt/",
+    "source-language": "pt-BR",
+    "target-language": "en",
+    "name": "iil_qti-test_pt-BR_en_omt"
   },
   "files": [{
     "total": {
-      "characters-without-spaces": 850,
-      "characters": 971,
-      "words": 134,
+      "characters-without-spaces": 860,
+      "characters": 995,
+      "words": 148,
       "files": 0,
       "segments": 14
     },
@@ -43,9 +43,9 @@
       "segments": 0
     },
     "unique": {
-      "characters-without-spaces": 850,
-      "characters": 971,
-      "words": 134,
+      "characters-without-spaces": 860,
+      "characters": 995,
+      "words": 148,
       "files": 0,
       "segments": 14
     },
