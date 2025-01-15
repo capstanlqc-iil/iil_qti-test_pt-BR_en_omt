@@ -1,119 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.4_Beta_0_5ffdae7cb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.4_Beta_0_5ffdae7cb" segtype="sentence" srclang="pt-BR"/>
   <body>
 <!-- Default translations -->
     <tu>
+      <tuv lang="pt-BR">
+        <seg>(A equipe inclui professores, pessoal de apoio pedagógico, pessoal administrativo da escola e pessoal da gestão escolar.)</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20250115T104322Z" creationid="souto" creationdate="20250115T104322Z">
+        <seg>(Staff includes teachers, personnel for pedagogical support, school administrative personnel, and school management personnel.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>(Selecione uma resposta em cada linha.)</seg>
+      </tuv>
       <tuv lang="en">
         <seg>(Please select one response in each row.)</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000015Z" creationid="souto" creationdate="20250114T000015Z">
-        <seg>(Selecione uma resposta em cada linha.)</seg>
-      </tuv>
     </tu>
     <tu>
+      <tuv lang="pt-BR">
+        <seg>&lt;g1&gt;(A equipe inclui professores, pessoal de apoio pedagógico, pessoal administrativo da escola e pessoal da gestão escolar.)&lt;/g1&gt;</seg>
+      </tuv>
       <tuv lang="en">
         <seg>&lt;g1&gt;(Staff includes teachers, personnel for pedagogical support, school administrative personnel, and school management personnel.)&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000011Z" creationid="souto" creationdate="20250114T000011Z">
-        <seg>&lt;g1&gt;(A equipe inclui professores, pessoal de apoio pedagógico, pessoal administrativo da escola e pessoal da gestão escolar.)&lt;/g1&gt;</seg>
-      </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
-        <seg>&lt;g1&gt;About once or twice a month&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR">
+        <seg>&lt;g1&gt;Cerca de uma ou duas vezes por ano&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000029Z" creationid="souto" creationdate="20250114T000029Z">
-        <seg>&lt;g1&gt;Cerca de uma ou duas vezes por mês&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
-        <seg>&lt;g1&gt;About once or twice a week&lt;/g1&gt;</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000035Z" creationid="souto" creationdate="20250114T000035Z">
-        <seg>&lt;g1&gt;Cerca de uma ou duas vezes por semana&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;About once or twice a year&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000024Z" creationid="souto" creationdate="20250114T000024Z">
-        <seg>&lt;g1&gt;Cerca de uma ou duas vezes por ano&lt;/g1&gt;</seg>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>&lt;g1&gt;Cerca de uma ou duas vezes por mês&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;About once or twice a month&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="pt-BR">
+        <seg>&lt;g1&gt;Cerca de uma ou duas vezes por semana&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;About once or twice a week&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>&lt;g1&gt;Durante o ano 2024, com que frequência a maioria dos funcionários da escola fez cada um dos seguintes?&lt;/g1&gt;</seg>
+      </tuv>
       <tuv lang="en">
         <seg>&lt;g1&gt;During &lt;the last academic year&gt;, how often have the majority of school staff done each of the following?&lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000007Z" creationid="souto" creationdate="20250114T000007Z">
-        <seg>&lt;g1&gt;Durante o ano 2024, com que frequência a maioria dos funcionários da escola fez cada um dos seguintes?&lt;/g1&gt;</seg>
-      </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
-        <seg>&lt;g1&gt;Every day or almost every day&lt;/g1&gt;</seg>
+      <tuv lang="pt-BR">
+        <seg>&lt;g1&gt;Nunca ou quase nunca &lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000039Z" creationid="souto" creationdate="20250114T000039Z">
-        <seg>&lt;g1&gt;Todos os dias ou quase todos os dias&lt;/g1&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
       <tuv lang="en">
         <seg>&lt;g1&gt;Never or almost never &lt;/g1&gt;</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000019Z" creationid="souto" creationdate="20250114T000019Z">
-        <seg>&lt;g1&gt;Nunca ou quase nunca &lt;/g1&gt;</seg>
-      </tuv>
     </tu>
     <tu>
+      <tuv lang="pt-BR">
+        <seg>&lt;g1&gt;Todos os dias ou quase todos os dias&lt;/g1&gt;</seg>
+      </tuv>
       <tuv lang="en">
-        <seg>They encouraged students of different backgrounds to resolve disagreements by finding common ground.</seg>
-      </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000047Z" creationid="souto" creationdate="20250114T000047Z">
-        <seg>Eles incentivaram alunos de diferentes origens a resolver divergências encontrando um terreno comum.</seg>
+        <seg>&lt;g1&gt;Every day or almost every day&lt;/g1&gt;</seg>
       </tuv>
     </tu>
     <tu>
+      <tuv lang="pt-BR">
+        <seg>Cerca de uma ou duas vezes por ano</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20250115T104334Z" creationid="souto" creationdate="20250115T104334Z">
+        <seg>About once or twice a year</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Cerca de uma ou duas vezes por mês&lt;x0/&gt; &lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20250115T104339Z" creationid="souto" creationdate="20250115T104339Z">
+        <seg>About once or twice a month</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Cerca de uma ou duas vezes por semana&lt;x0/&gt; &lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20250115T104357Z" creationid="souto" creationdate="20250115T104342Z">
+        <seg>About once or twice a week</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Durante o ano 2024, com que frequência a maioria dos funcionários da escola fez cada um dos seguintes?</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20250115T104314Z" creationid="souto" creationdate="20250115T104314Z">
+        <seg>During &lt;the last academic year&gt;, how often have the majority of school staff done each of the following?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Eles ajudaram alunos de diferentes origens a reconhecer as semelhanças que existem entre eles.</seg>
+      </tuv>
       <tuv lang="en">
         <seg>They helped students of different backgrounds to recognise the similarities that exist between them.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000043Z" creationid="souto" creationdate="20250114T000043Z">
-        <seg>Eles ajudaram alunos de diferentes origens a reconhecer as semelhanças que existem entre eles.</seg>
-      </tuv>
     </tu>
     <tu>
-      <tuv lang="en">
-        <seg>They provided additional support for students from disadvantaged backgrounds.</seg>
+      <tuv lang="pt-BR">
+        <seg>Eles apoiaram atividades ou organizações que incentivam a expressão de diversas identidades pelos alunos.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000105Z" creationid="souto" creationdate="20250114T000105Z">
-        <seg>Eles forneceram apoio adicional para alunos de origens desfavorecidas.</seg>
-      </tuv>
-    </tu>
-    <tu>
       <tuv lang="en">
         <seg>They supported activities or organisations that encourage students' expression of diverse identities.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000051Z" creationid="souto" creationdate="20250114T000051Z">
-        <seg>Eles apoiaram atividades ou organizações que incentivam a expressão de diversas identidades pelos alunos.</seg>
-      </tuv>
     </tu>
     <tu>
+      <tuv lang="pt-BR">
+        <seg>Eles ensinaram os alunos a responder à discriminação.</seg>
+      </tuv>
       <tuv lang="en">
         <seg>They taught students how to respond to discrimination.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000055Z" creationid="souto" creationdate="20250114T000055Z">
-        <seg>Eles ensinaram os alunos a responder à discriminação.</seg>
-      </tuv>
     </tu>
     <tu>
+      <tuv lang="pt-BR">
+        <seg>Eles ensinaram os alunos a serem inclusivos com outras pessoas com diferentes origens.</seg>
+      </tuv>
       <tuv lang="en">
         <seg>They taught students to be inclusive of others with different backgrounds.</seg>
       </tuv>
-      <tuv lang="pt-BR" changeid="souto" changedate="20250114T000058Z" creationid="souto" creationdate="20250114T000058Z">
-        <seg>Eles ensinaram os alunos a serem inclusivos com outras pessoas com diferentes origens.</seg>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Eles forneceram apoio adicional para alunos de origens desfavorecidas.</seg>
+      </tuv>
+      <tuv lang="en">
+        <seg>They provided additional support for students from disadvantaged backgrounds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Eles incentivaram alunos de diferentes origens a resolver divergências encontrando um terreno comum.</seg>
+      </tuv>
+      <tuv lang="en">
+        <seg>They encouraged students of different backgrounds to resolve disagreements by finding common ground.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Nunca ou quase nunca</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20250115T104328Z" creationid="souto" creationdate="20250115T104328Z">
+        <seg>Never or almost never </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Todos os dias ou quase todos os dias</seg>
+      </tuv>
+      <tuv lang="en" changeid="souto" changedate="20250115T104403Z" creationid="souto" creationdate="20250115T104403Z">
+        <seg>Every day or almost every day</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
