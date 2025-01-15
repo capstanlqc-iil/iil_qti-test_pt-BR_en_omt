@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="pt-BR" original="/home/souto/Downloads/QTI/qti_pt-BR.xml" datatype="xml" target-language="en" tool-id="OpenXLIFF">
+    <header>
+      <skl>
+        <internal-file form="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPGFzc2Vzc21lbnRJdGVtIHht
+bG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhzaTpz
+Y2hlbWFMb2NhdGlvbj0iaHR0cDovL3d3dy5pbXNnbG9iYWwub3JnL3hzZC9pbXNxdGlfdjJwMiBo
+dHRwOi8vd3d3Lmltc2dsb2JhbC5vcmcveHNkL3F0aS9xdGl2MnAyL2ltc3F0aV92MnAyLnhzZCIg
+dGltZURlcGVuZGVudD0iZmFsc2UiIHhtbG5zPSJodHRwOi8vd3d3Lmltc2dsb2JhbC5vcmcveHNk
+L2ltc3F0aV92MnAyIiB0b29sTmFtZT0iVEFPIiBpZGVudGlmaWVyPSJpNjM2MWQyN2Q4NDVjOTIw
+MjQwOWFiMTNkZmY3YWMwYmJlYyIgeG1sbnM6bT0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRo
+L01hdGhNTCIgeG1sOmxhbmc9ImVuLUdCIiB0aXRsZT0iU0MxNzMiIGxhYmVsPSJTQzE3MyIgdG9v
+bFZlcnNpb249IjIwMjIuMTAiIGFkYXB0aXZlPSJmYWxzZSI+CiAgPHJlc3BvbnNlRGVjbGFyYXRp
+b24gYmFzZVR5cGU9ImRpcmVjdGVkUGFpciIgY2FyZGluYWxpdHk9Im11bHRpcGxlIiBpZGVudGlm
+aWVyPSJTQzE3MyIvPgogIDxpdGVtQm9keT4KICAgIDxkaXYgY2xhc3M9ImdyaWQtcm93Ij4KICAg
+ICAgPGRpdiBjbGFzcz0iY29sLTEyIj4KICAgICAgICA8bWF0Y2hJbnRlcmFjdGlvbiByZXNwb25z
+ZUlkZW50aWZpZXI9IlNDMTczIiBtYXhBc3NvY2lhdGlvbnM9IjYiIHNodWZmbGU9ImZhbHNlIiBt
+aW5Bc3NvY2lhdGlvbnM9IjAiPgogICAgICAgICAgPHByb21wdD4gPHA+IDxzdHJvbmc+JSUlMSUl
+JQo8L3N0cm9uZz4gPC9wPiA8cD4gPGVtPiUlJTIlJSUKPC9lbT4gPC9wPiA8cCBjbGFzcz0iZW1w
+aGFzaXplIj4lJSUzJSUlCjwvcD4gPC9wcm9tcHQ+CiAgICAgICAgICA8c2ltcGxlTWF0Y2hTZXQ+
+CiAgICAgICAgICAgIDxzaW1wbGVBc3NvY2lhYmxlQ2hvaWNlIG1hdGNoTWF4PSIwIiBpZGVudGlm
+aWVyPSJfMDEiIG1hdGNoTWluPSIwIiBmaXhlZD0iZmFsc2UiIHNob3dIaWRlPSJzaG93Ij4gPGVt
+PiUlJTQlJSUKPC9lbT4gPC9zaW1wbGVBc3NvY2lhYmxlQ2hvaWNlPgogICAgICAgICAgICA8c2lt
+cGxlQXNzb2NpYWJsZUNob2ljZSBtYXRjaE1heD0iMCIgaWRlbnRpZmllcj0iXzAyIiBtYXRjaE1p
+bj0iMCIgZml4ZWQ9ImZhbHNlIiBzaG93SGlkZT0ic2hvdyI+IDxlbT4lJSU1JSUlCjwvZW0+IDwv
+c2ltcGxlQXNzb2NpYWJsZUNob2ljZT4KICAgICAgICAgICAgPHNpbXBsZUFzc29jaWFibGVDaG9p
+Y2UgbWF0Y2hNYXg9IjAiIGlkZW50aWZpZXI9Il8wMyIgbWF0Y2hNaW49IjAiIGZpeGVkPSJmYWxz
+ZSIgc2hvd0hpZGU9InNob3ciPiA8cD4gPGVtPiUlJTYlJSUKPC9zaW1wbGVBc3NvY2lhYmxlQ2hv
+aWNlPgogICAgICAgICAgICA8c2ltcGxlQXNzb2NpYWJsZUNob2ljZSBtYXRjaE1heD0iMCIgaWRl
+bnRpZmllcj0iXzA0IiBtYXRjaE1pbj0iMCIgZml4ZWQ9ImZhbHNlIiBzaG93SGlkZT0ic2hvdyI+
+IDxwPiA8ZW0+JSUlNyUlJQo8L3NpbXBsZUFzc29jaWFibGVDaG9pY2U+CiAgICAgICAgICAgIDxz
+aW1wbGVBc3NvY2lhYmxlQ2hvaWNlIG1hdGNoTWF4PSIwIiBpZGVudGlmaWVyPSJfMDUiIG1hdGNo
+TWluPSIwIiBmaXhlZD0iZmFsc2UiIHNob3dIaWRlPSJzaG93Ij4gPGVtPiUlJTglJSUKPC9lbT4g
+PC9zaW1wbGVBc3NvY2lhYmxlQ2hvaWNlPgogICAgICAgICAgPC9zaW1wbGVNYXRjaFNldD4KICAg
+ICAgICAgIDxzaW1wbGVNYXRjaFNldD4KICAgICAgICAgICAgPHNpbXBsZUFzc29jaWFibGVDaG9p
+Y2UgbWF0Y2hNYXg9IjEiIGlkZW50aWZpZXI9IlNDMTczUTAxSkEiIG1hdGNoTWluPSIwIiBmaXhl
+ZD0iZmFsc2UiIHNob3dIaWRlPSJzaG93Ij4lJSU5JSUlCjwvc2ltcGxlQXNzb2NpYWJsZUNob2lj
+ZT4KICAgICAgICAgICAgPHNpbXBsZUFzc29jaWFibGVDaG9pY2UgbWF0Y2hNYXg9IjEiIGlkZW50
+aWZpZXI9IlNDMTczUTAySkEiIG1hdGNoTWluPSIwIiBmaXhlZD0iZmFsc2UiIHNob3dIaWRlPSJz
+aG93Ij4lJSUxMCUlJQo8L3NpbXBsZUFzc29jaWFibGVDaG9pY2U+CiAgICAgICAgICAgIDxzaW1w
+bGVBc3NvY2lhYmxlQ2hvaWNlIG1hdGNoTWF4PSIxIiBpZGVudGlmaWVyPSJTQzE3M1EwM0pBIiBt
+YXRjaE1pbj0iMCIgZml4ZWQ9ImZhbHNlIiBzaG93SGlkZT0ic2hvdyI+JSUlMTElJSUKPC9zaW1w
+bGVBc3NvY2lhYmxlQ2hvaWNlPgogICAgICAgICAgICA8c2ltcGxlQXNzb2NpYWJsZUNob2ljZSBt
+YXRjaE1heD0iMSIgaWRlbnRpZmllcj0iU0MxNzNRMDRKQSIgbWF0Y2hNaW49IjAiIGZpeGVkPSJm
+YWxzZSIgc2hvd0hpZGU9InNob3ciPiUlJTEyJSUlCjwvc2ltcGxlQXNzb2NpYWJsZUNob2ljZT4K
+ICAgICAgICAgICAgPHNpbXBsZUFzc29jaWFibGVDaG9pY2UgbWF0Y2hNYXg9IjEiIGlkZW50aWZp
+ZXI9IlNDMTczUTA1SkEiIG1hdGNoTWluPSIwIiBmaXhlZD0iZmFsc2UiIHNob3dIaWRlPSJzaG93
+Ij4lJSUxMyUlJQo8L3NpbXBsZUFzc29jaWFibGVDaG9pY2U+CiAgICAgICAgICAgIDxzaW1wbGVB
+c3NvY2lhYmxlQ2hvaWNlIG1hdGNoTWF4PSIxIiBpZGVudGlmaWVyPSJTQzE3M1EwNkpBIiBtYXRj
+aE1pbj0iMCIgZml4ZWQ9ImZhbHNlIiBzaG93SGlkZT0ic2hvdyI+JSUlMTQlJSUKPC9zaW1wbGVB
+c3NvY2lhYmxlQ2hvaWNlPgogICAgICAgICAgPC9zaW1wbGVNYXRjaFNldD4KICAgICAgICA8L21h
+dGNoSW50ZXJhY3Rpb24+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgPC9pdGVtQm9keT4KICA8
+cmVzcG9uc2VQcm9jZXNzaW5nLz4KPC9hc3Nlc3NtZW50SXRlbT4=</internal-file>
+      </skl>
+      <tool tool-version="3.23.0 20241024_0743" tool-id="OpenXLIFF" tool-name="OpenXLIFF Filters"/>
+    </header>
+    <?encoding UTF-8?>
+    <body>
+      <trans-unit approved="no" xml:space="preserve" id="1">
+      <source>Durante o ano 2024, com que frequência a maioria dos funcionários da escola fez cada um dos seguintes?</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="2">
+      <source>(A equipe inclui professores, pessoal de apoio pedagógico, pessoal administrativo da escola e pessoal da gestão escolar.)</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="3">
+      <source>(Selecione uma resposta em cada linha.)</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="4">
+      <source>Nunca ou quase nunca </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="5">
+      <source>Cerca de uma ou duas vezes por ano</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="6">
+      <source>Cerca de uma ou duas vezes por mês<ph id="0">&lt;/em&gt;</ph> <ph id="1">&lt;/p&gt;</ph> </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="7">
+      <source>Cerca de uma ou duas vezes por semana<ph id="0">&lt;/em&gt;</ph> <ph id="1">&lt;/p&gt;</ph> </source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="8">
+      <source>Todos os dias ou quase todos os dias</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="9">
+      <source>Eles ajudaram alunos de diferentes origens a reconhecer as semelhanças que existem entre eles.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="10">
+      <source>Eles incentivaram alunos de diferentes origens a resolver divergências encontrando um terreno comum.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="11">
+      <source>Eles apoiaram atividades ou organizações que incentivam a expressão de diversas identidades pelos alunos.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="12">
+      <source>Eles ensinaram os alunos a responder à discriminação.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="13">
+      <source>Eles ensinaram os alunos a serem inclusivos com outras pessoas com diferentes origens.</source>
+   </trans-unit>
+      <trans-unit approved="no" xml:space="preserve" id="14">
+      <source>Eles forneceram apoio adicional para alunos de origens desfavorecidas.</source>
+   </trans-unit>
+    </body>
+  </file>
+</xliff>
